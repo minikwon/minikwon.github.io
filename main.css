@@ -1,3 +1,33 @@
-.nav li {
+body {
+  height: 100%;
+  background-image: url(background_image.jpg);
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  left: 0;
+  line-height: 75px;
+  margin: auto;
+  margin-top: -100px;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}
+
+.about h1 {
+  color:     white;
+  font-size: 40px;
+}
+
+.about p {
+  color: white;
+}
+
+.icon {
   display: inline;
 }
