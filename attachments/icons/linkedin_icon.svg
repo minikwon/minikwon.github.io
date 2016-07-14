@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>LinkedIn Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LinkedIn-Icon">
+            <g id="Group-2" transform="translate(1.000000, 1.000000)">
+                <g id="Group" transform="translate(14.533512, 14.032357)" fill="#FFFFFF">
+                    <ellipse id="Oval-1" cx="4.00924479" cy="4.00924479" rx="4.00924479" ry="4.00924479"></ellipse>
+                    <rect id="Rectangle-6" x="0.501155599" y="10.5242676" width="7.01617839" height="21.5496908"></rect>
+                    <path d="M17.540446,12.994864 L17.540446,10.5242676 L10.5242676,10.5242676 L10.5242676,32.0739583 L17.540446,32.0739583 L17.540446,17.9024836 C17.7163722,17.5863408 18.6764191,16.0369792 20.5948523,16.0369792 C22.7312483,16.0369792 24.0554687,17.004787 24.0554687,17.9584019 L24.0554687,32.0739583 L31.0716471,32.0739583 L31.0716471,17.004787 C31.0716471,17.004787 31.4103187,10.5066488 24.0554687,10.5066488 C18.9528393,10.5066488 17.7801615,12.0497844 17.5404458,12.9948701 Z" id="Combined-Shape"></path>
+                </g>
+                <circle id="Oval-2" stroke="#FFFFFF" cx="30" cy="30" r="30"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
